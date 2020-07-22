@@ -1,0 +1,8 @@
+
+These datasets is used by our experiments. 
+
+1) Monthly incidence of hepatitis E from January 2005 to December 2017 was shown by file month_rate.xlsx.
+
+2) Monthly cases number of hepatitis E from January 2005 to December 2017  was shown by file month_number.xlsx.
+
+Notes: Due to laws and regulations, we are unable to provide the original data. We provide normalized data for readers to reproduce the experimental results.
